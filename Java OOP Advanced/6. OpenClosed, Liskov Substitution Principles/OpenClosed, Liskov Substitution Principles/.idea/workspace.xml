@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6378f23-6864-422d-a133-d45fdeb29fe8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1984366239">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1117" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1117" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\Viliyan\Desktop\OpenClosed, Liskov Substitution Principles\src\main\java\logger\models\appenders</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/P01_ExtendedArrayList/ExtendedArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/P03_GraphicEditor/GraphicEditor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/P01_ExtendedArrayList/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logger/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/models/layouts/SimpleLayout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/models/SimpleLayout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/enums/ReportLevel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/models/appenders/BaseAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/models/appenders/ConsoleAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/models/files/LogFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/models/appenders/FIleAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/models/appenders/FileAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/models/layouts/XmlLayout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/models/loggers/MessageLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/contracts/Engine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/engine/Engine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/api/File.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/model/appenders/BaseAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/model/appenders/ConsoleAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/model/appenders/FileAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/model/files/LogFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p02_Blobs/io/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/model/layouts/SimpleLayout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/model/layouts/XmlLayout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/model/loggers/MessageLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/engine/Engine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Logger/api/Appender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/P02_FileStream/File.java" />
+        <option value="$PROJECT_DIR$/src/main/java/P02_FileStream/Streamable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/P02_FileStream/Fileble.java" />
+        <option value="$PROJECT_DIR$/src/main/java/P02_FileStream/Music.java" />
+        <option value="$PROJECT_DIR$/src/main/java/P02_FileStream/StreamProgressInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/P02_FileStream/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OpenClosed, Liskov Substitution Principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenClosed, Liskov Substitution Principles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpenClosed, Liskov Substitution Principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenClosed, Liskov Substitution Principles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpenClosed, Liskov Substitution Principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenClosed, Liskov Substitution Principles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpenClosed, Liskov Substitution Principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenClosed, Liskov Substitution Principles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533231944813" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Viliyan\Desktop\OpenClosed, Liskov Substitution Principles\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logger.Main" />
+      <module name="OpenClosed, Liskov Substitution Principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P02_FileStream.Main" />
+      <module name="OpenClosed, Liskov Substitution Principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P02_FileStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P01_ExtendedArrayList.Main" />
+      <module name="OpenClosed, Liskov Substitution Principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P01_ExtendedArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="OpenClosed, Liskov Substitution Principles" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6378f23-6864-422d-a133-d45fdeb29fe8" name="Default Changelist" comment="" />
+      <created>1533118483607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533118483607</updated>
+      <workItem from="1533118493821" duration="5913000" />
+      <workItem from="1533230949890" duration="1586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7499000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P05_Square/RectangleTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P03_GraphicEditor/GraphicEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/contracts/Appender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/contracts/Layout.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/contracts/Logger.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/models/appenders/BaseAppender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/enums/ReportLevel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/models/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/models/appenders/ConsoleAppender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/contracts/File.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/models/appenders/FileAppender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/models/layouts/SimpleLayout.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/models/files/LogFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/models/layouts/XmlLayout.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/models/loggers/MessageLogger.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/contracts/Runable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/engine/Engine.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/api/File.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/enums/ReportLevel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/model/appenders/BaseAppender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/model/appenders/ConsoleAppender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/model/appenders/FileAppender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/model/files/LogFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p02_Blobs/io/ConsoleReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/model/layouts/SimpleLayout.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/model/layouts/XmlLayout.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/model/loggers/MessageLogger.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/engine/Engine.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Logger/api/Appender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/P01_ExtendedArrayList/ExtendedArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P01_ExtendedArrayList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+          <folding>
+            <element signature="e#160#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P02_FileStream/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P02_FileStream/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P02_FileStream/Streamable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P02_FileStream/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P02_FileStream/StreamProgressInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P02_FileStream/Fileble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OpenClosed, Liskov Substitution Principles</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
