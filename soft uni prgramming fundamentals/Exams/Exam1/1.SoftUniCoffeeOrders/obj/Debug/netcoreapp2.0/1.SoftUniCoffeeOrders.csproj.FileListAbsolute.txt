@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\obj\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\obj\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\obj\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\obj\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\bin\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\bin\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\bin\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\bin\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\bin\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\obj\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\1.SoftUniCoffeeOrders\obj\Debug\netcoreapp2.0\1.SoftUniCoffeeOrders.pdb

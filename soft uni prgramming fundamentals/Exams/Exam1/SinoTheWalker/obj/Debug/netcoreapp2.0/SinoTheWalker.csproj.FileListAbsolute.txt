@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\bin\Debug\netcoreapp2.0\SinoTheWalker.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\bin\Debug\netcoreapp2.0\SinoTheWalker.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\bin\Debug\netcoreapp2.0\SinoTheWalker.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\bin\Debug\netcoreapp2.0\SinoTheWalker.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\bin\Debug\netcoreapp2.0\SinoTheWalker.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\obj\Debug\netcoreapp2.0\SinoTheWalker.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\obj\Debug\netcoreapp2.0\SinoTheWalker.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\obj\Debug\netcoreapp2.0\SinoTheWalker.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\obj\Debug\netcoreapp2.0\SinoTheWalker.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\SinoTheWalker\obj\Debug\netcoreapp2.0\SinoTheWalker.pdb

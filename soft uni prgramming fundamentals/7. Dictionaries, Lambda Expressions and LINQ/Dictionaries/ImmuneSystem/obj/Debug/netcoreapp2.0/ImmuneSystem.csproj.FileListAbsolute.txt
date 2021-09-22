@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\bin\Debug\netcoreapp2.0\ImmuneSystem.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\bin\Debug\netcoreapp2.0\ImmuneSystem.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\bin\Debug\netcoreapp2.0\ImmuneSystem.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\bin\Debug\netcoreapp2.0\ImmuneSystem.dll
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\bin\Debug\netcoreapp2.0\ImmuneSystem.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\obj\Debug\netcoreapp2.0\ImmuneSystem.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\obj\Debug\netcoreapp2.0\ImmuneSystem.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\obj\Debug\netcoreapp2.0\ImmuneSystem.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\obj\Debug\netcoreapp2.0\ImmuneSystem.dll
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\obj\Debug\netcoreapp2.0\ImmuneSystem.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\ImmuneSystem\obj\Debug\netcoreapp2.0\ImmuneSystem.csprojResolveAssemblyReference.cache

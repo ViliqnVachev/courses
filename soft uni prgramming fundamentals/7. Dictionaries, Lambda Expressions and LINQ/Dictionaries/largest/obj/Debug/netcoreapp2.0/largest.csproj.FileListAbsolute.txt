@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Dictionaries\largest\bin\Debug\netcoreapp2.0\largest.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\largest\bin\Debug\netcoreapp2.0\largest.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\largest\bin\Debug\netcoreapp2.0\largest.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\largest\bin\Debug\netcoreapp2.0\largest.dll
+C:\Users\Viliyan\Desktop\Dictionaries\largest\bin\Debug\netcoreapp2.0\largest.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\largest\obj\Debug\netcoreapp2.0\largest.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\largest\obj\Debug\netcoreapp2.0\largest.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\largest\obj\Debug\netcoreapp2.0\largest.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\largest\obj\Debug\netcoreapp2.0\largest.dll
+C:\Users\Viliyan\Desktop\Dictionaries\largest\obj\Debug\netcoreapp2.0\largest.pdb

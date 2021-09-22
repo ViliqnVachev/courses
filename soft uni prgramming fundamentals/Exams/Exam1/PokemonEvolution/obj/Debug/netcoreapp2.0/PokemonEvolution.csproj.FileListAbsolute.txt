@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\bin\Debug\netcoreapp2.0\PokemonEvolution.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\bin\Debug\netcoreapp2.0\PokemonEvolution.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\bin\Debug\netcoreapp2.0\PokemonEvolution.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\bin\Debug\netcoreapp2.0\PokemonEvolution.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\bin\Debug\netcoreapp2.0\PokemonEvolution.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\obj\Debug\netcoreapp2.0\PokemonEvolution.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\obj\Debug\netcoreapp2.0\PokemonEvolution.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\obj\Debug\netcoreapp2.0\PokemonEvolution.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\obj\Debug\netcoreapp2.0\PokemonEvolution.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\obj\Debug\netcoreapp2.0\PokemonEvolution.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokemonEvolution\obj\Debug\netcoreapp2.0\PokemonEvolution.csprojResolveAssemblyReference.cache

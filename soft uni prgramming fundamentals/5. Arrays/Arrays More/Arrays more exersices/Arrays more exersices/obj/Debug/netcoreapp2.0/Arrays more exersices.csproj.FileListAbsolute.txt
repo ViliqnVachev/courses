@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\bin\Debug\netcoreapp2.0\Arrays more exersices.deps.json
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\bin\Debug\netcoreapp2.0\Arrays more exersices.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\bin\Debug\netcoreapp2.0\Arrays more exersices.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\bin\Debug\netcoreapp2.0\Arrays more exersices.dll
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\bin\Debug\netcoreapp2.0\Arrays more exersices.pdb
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\obj\Debug\netcoreapp2.0\Arrays more exersices.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\obj\Debug\netcoreapp2.0\Arrays more exersices.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\obj\Debug\netcoreapp2.0\Arrays more exersices.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\obj\Debug\netcoreapp2.0\Arrays more exersices.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\obj\Debug\netcoreapp2.0\Arrays more exersices.dll
+C:\Users\Viliyan\Desktop\Arrays More\Arrays more exersices\Arrays more exersices\obj\Debug\netcoreapp2.0\Arrays more exersices.pdb

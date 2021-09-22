@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.deps.json
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.dll
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.pdb
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.dll
+C:\Users\Viliyan\Desktop\Lists C#\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.pdb

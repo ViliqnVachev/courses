@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.dll
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\bin\Debug\netcoreapp2.0\SumMinMaxAverage.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.dll
+C:\Users\Viliyan\Desktop\Dictionaries\SumMinMaxAverage\obj\Debug\netcoreapp2.0\SumMinMaxAverage.pdb

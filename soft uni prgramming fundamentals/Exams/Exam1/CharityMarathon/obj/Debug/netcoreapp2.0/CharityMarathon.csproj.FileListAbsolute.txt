@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.csprojResolveAssemblyReference.cache

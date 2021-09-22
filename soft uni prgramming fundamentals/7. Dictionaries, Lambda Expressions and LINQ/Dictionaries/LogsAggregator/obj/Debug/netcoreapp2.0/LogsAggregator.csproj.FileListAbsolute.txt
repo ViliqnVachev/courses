@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.dll
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.dll
+C:\Users\Viliyan\Desktop\Dictionaries\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.pdb

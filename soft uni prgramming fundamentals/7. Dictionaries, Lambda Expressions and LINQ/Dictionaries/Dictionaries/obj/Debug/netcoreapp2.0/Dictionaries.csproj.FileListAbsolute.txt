@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\bin\Debug\netcoreapp2.0\Dictionaries.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\bin\Debug\netcoreapp2.0\Dictionaries.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\bin\Debug\netcoreapp2.0\Dictionaries.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\bin\Debug\netcoreapp2.0\Dictionaries.dll
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\bin\Debug\netcoreapp2.0\Dictionaries.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\obj\Debug\netcoreapp2.0\Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\obj\Debug\netcoreapp2.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\obj\Debug\netcoreapp2.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\obj\Debug\netcoreapp2.0\Dictionaries.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\obj\Debug\netcoreapp2.0\Dictionaries.dll
+C:\Users\Viliyan\Desktop\Dictionaries\Dictionaries\obj\Debug\netcoreapp2.0\Dictionaries.pdb

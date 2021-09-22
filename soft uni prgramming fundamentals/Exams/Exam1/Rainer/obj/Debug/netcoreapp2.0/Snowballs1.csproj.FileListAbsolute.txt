@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\bin\Debug\netcoreapp2.0\Snowballs1.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\bin\Debug\netcoreapp2.0\Snowballs1.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\bin\Debug\netcoreapp2.0\Snowballs1.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\bin\Debug\netcoreapp2.0\Snowballs1.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\bin\Debug\netcoreapp2.0\Snowballs1.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\obj\Debug\netcoreapp2.0\Snowballs1.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\obj\Debug\netcoreapp2.0\Snowballs1.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\obj\Debug\netcoreapp2.0\Snowballs1.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\obj\Debug\netcoreapp2.0\Snowballs1.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\obj\Debug\netcoreapp2.0\Snowballs1.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\Rainer\obj\Debug\netcoreapp2.0\Snowballs1.pdb

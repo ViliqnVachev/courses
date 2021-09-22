@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\bin\Debug\netcoreapp2.0\SuperMarket.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\bin\Debug\netcoreapp2.0\SuperMarket.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\bin\Debug\netcoreapp2.0\SuperMarket.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\bin\Debug\netcoreapp2.0\SuperMarket.dll
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\bin\Debug\netcoreapp2.0\SuperMarket.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\obj\Debug\netcoreapp2.0\SuperMarket.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\obj\Debug\netcoreapp2.0\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\obj\Debug\netcoreapp2.0\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\obj\Debug\netcoreapp2.0\SuperMarket.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\obj\Debug\netcoreapp2.0\SuperMarket.dll
+C:\Users\Viliyan\Desktop\Dictionaries\SuperMarket\obj\Debug\netcoreapp2.0\SuperMarket.pdb

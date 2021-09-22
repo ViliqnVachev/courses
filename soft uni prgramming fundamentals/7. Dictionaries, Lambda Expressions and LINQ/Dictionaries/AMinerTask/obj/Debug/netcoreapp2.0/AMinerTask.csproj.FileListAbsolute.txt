@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.dll
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.dll
+C:\Users\Viliyan\Desktop\Dictionaries\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.pdb

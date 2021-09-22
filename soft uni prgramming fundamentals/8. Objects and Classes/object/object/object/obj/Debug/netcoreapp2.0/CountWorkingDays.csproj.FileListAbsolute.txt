@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\object\object\object\bin\Debug\netcoreapp2.0\CountWorkingDays.deps.json
+C:\Users\Viliyan\Desktop\object\object\object\bin\Debug\netcoreapp2.0\CountWorkingDays.runtimeconfig.json
+C:\Users\Viliyan\Desktop\object\object\object\bin\Debug\netcoreapp2.0\CountWorkingDays.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\object\object\object\bin\Debug\netcoreapp2.0\CountWorkingDays.dll
+C:\Users\Viliyan\Desktop\object\object\object\bin\Debug\netcoreapp2.0\CountWorkingDays.pdb
+C:\Users\Viliyan\Desktop\object\object\object\obj\Debug\netcoreapp2.0\CountWorkingDays.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\object\object\object\obj\Debug\netcoreapp2.0\CountWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\object\object\object\obj\Debug\netcoreapp2.0\CountWorkingDays.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\object\object\object\obj\Debug\netcoreapp2.0\CountWorkingDays.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\object\object\object\obj\Debug\netcoreapp2.0\CountWorkingDays.dll
+C:\Users\Viliyan\Desktop\object\object\object\obj\Debug\netcoreapp2.0\CountWorkingDays.pdb

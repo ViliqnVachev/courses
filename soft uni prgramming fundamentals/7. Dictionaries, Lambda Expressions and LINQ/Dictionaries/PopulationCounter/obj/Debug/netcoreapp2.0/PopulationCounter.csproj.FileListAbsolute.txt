@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.dll
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\bin\Debug\netcoreapp2.0\PopulationCounter.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.dll
+C:\Users\Viliyan\Desktop\Dictionaries\PopulationCounter\obj\Debug\netcoreapp2.0\PopulationCounter.pdb

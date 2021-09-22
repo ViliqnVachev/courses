@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.pdb

@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\bin\Debug\netcoreapp2.0\СръбскоUnleashed.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\bin\Debug\netcoreapp2.0\СръбскоUnleashed.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\bin\Debug\netcoreapp2.0\СръбскоUnleashed.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\bin\Debug\netcoreapp2.0\СръбскоUnleashed.dll
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\bin\Debug\netcoreapp2.0\СръбскоUnleashed.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\obj\Debug\netcoreapp2.0\СръбскоUnleashed.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\obj\Debug\netcoreapp2.0\СръбскоUnleashed.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\obj\Debug\netcoreapp2.0\СръбскоUnleashed.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\obj\Debug\netcoreapp2.0\СръбскоUnleashed.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\obj\Debug\netcoreapp2.0\СръбскоUnleashed.dll
+C:\Users\Viliyan\Desktop\Dictionaries\СръбскоUnleashed\obj\Debug\netcoreapp2.0\СръбскоUnleashed.pdb

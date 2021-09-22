@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.dll
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.dll
+C:\Users\Viliyan\Desktop\Dictionaries\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.pdb

@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\bin\Debug\netcoreapp2.0\ByteFlip.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\bin\Debug\netcoreapp2.0\ByteFlip.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\bin\Debug\netcoreapp2.0\ByteFlip.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\bin\Debug\netcoreapp2.0\ByteFlip.dll
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\bin\Debug\netcoreapp2.0\ByteFlip.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\obj\Debug\netcoreapp2.0\ByteFlip.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\obj\Debug\netcoreapp2.0\ByteFlip.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\obj\Debug\netcoreapp2.0\ByteFlip.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\obj\Debug\netcoreapp2.0\ByteFlip.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\obj\Debug\netcoreapp2.0\ByteFlip.dll
+C:\Users\Viliyan\Desktop\Dictionaries\ByteFlip\obj\Debug\netcoreapp2.0\ByteFlip.pdb

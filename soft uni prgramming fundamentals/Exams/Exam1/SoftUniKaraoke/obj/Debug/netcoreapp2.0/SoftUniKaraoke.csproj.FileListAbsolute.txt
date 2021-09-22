@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.pdb

@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.dll
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\bin\Debug\netcoreapp2.0\OddFilter.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.dll
+C:\Users\Viliyan\Desktop\Dictionaries\OddFilter\obj\Debug\netcoreapp2.0\OddFilter.pdb

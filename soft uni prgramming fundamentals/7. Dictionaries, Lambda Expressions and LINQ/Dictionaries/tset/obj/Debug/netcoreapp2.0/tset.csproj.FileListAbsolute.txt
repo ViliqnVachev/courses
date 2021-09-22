@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\tset\bin\Debug\netcoreapp2.0\tset.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\tset\bin\Debug\netcoreapp2.0\tset.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\tset\bin\Debug\netcoreapp2.0\tset.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\tset\bin\Debug\netcoreapp2.0\tset.dll
+C:\Users\Viliyan\Desktop\Dictionaries\tset\bin\Debug\netcoreapp2.0\tset.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\tset\obj\Debug\netcoreapp2.0\tset.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\tset\obj\Debug\netcoreapp2.0\tset.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\tset\obj\Debug\netcoreapp2.0\tset.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\tset\obj\Debug\netcoreapp2.0\tset.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\tset\obj\Debug\netcoreapp2.0\tset.dll
+C:\Users\Viliyan\Desktop\Dictionaries\tset\obj\Debug\netcoreapp2.0\tset.pdb

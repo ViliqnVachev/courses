@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.deps.json
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.dll
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.pdb
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.dll
+C:\Users\Viliyan\Desktop\Lists C#\Lists\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.pdb

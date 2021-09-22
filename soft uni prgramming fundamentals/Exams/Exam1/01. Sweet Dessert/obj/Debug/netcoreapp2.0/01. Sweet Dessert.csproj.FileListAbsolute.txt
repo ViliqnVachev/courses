@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\bin\Debug\netcoreapp2.0\01. Sweet Dessert.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\bin\Debug\netcoreapp2.0\01. Sweet Dessert.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\bin\Debug\netcoreapp2.0\01. Sweet Dessert.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\bin\Debug\netcoreapp2.0\01. Sweet Dessert.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\bin\Debug\netcoreapp2.0\01. Sweet Dessert.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\obj\Debug\netcoreapp2.0\01. Sweet Dessert.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\obj\Debug\netcoreapp2.0\01. Sweet Dessert.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\obj\Debug\netcoreapp2.0\01. Sweet Dessert.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\obj\Debug\netcoreapp2.0\01. Sweet Dessert.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\obj\Debug\netcoreapp2.0\01. Sweet Dessert.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\01. Sweet Dessert\obj\Debug\netcoreapp2.0\01. Sweet Dessert.pdb

@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\bin\Debug\netcoreapp2.0\AnonymousDownsite1.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\bin\Debug\netcoreapp2.0\AnonymousDownsite1.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\bin\Debug\netcoreapp2.0\AnonymousDownsite1.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\bin\Debug\netcoreapp2.0\AnonymousDownsite1.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\bin\Debug\netcoreapp2.0\AnonymousDownsite1.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\obj\Debug\netcoreapp2.0\AnonymousDownsite1.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\obj\Debug\netcoreapp2.0\AnonymousDownsite1.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\obj\Debug\netcoreapp2.0\AnonymousDownsite1.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\obj\Debug\netcoreapp2.0\AnonymousDownsite1.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousDownsite1\obj\Debug\netcoreapp2.0\AnonymousDownsite1.pdb

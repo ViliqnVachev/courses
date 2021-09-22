@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\bin\Debug\netcoreapp2.0\RoliTheCoder.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\bin\Debug\netcoreapp2.0\RoliTheCoder.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\bin\Debug\netcoreapp2.0\RoliTheCoder.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\bin\Debug\netcoreapp2.0\RoliTheCoder.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\bin\Debug\netcoreapp2.0\RoliTheCoder.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\obj\Debug\netcoreapp2.0\RoliTheCoder.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\obj\Debug\netcoreapp2.0\RoliTheCoder.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\obj\Debug\netcoreapp2.0\RoliTheCoder.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\obj\Debug\netcoreapp2.0\RoliTheCoder.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\obj\Debug\netcoreapp2.0\RoliTheCoder.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\RoliTheCoder\obj\Debug\netcoreapp2.0\RoliTheCoder.pdb

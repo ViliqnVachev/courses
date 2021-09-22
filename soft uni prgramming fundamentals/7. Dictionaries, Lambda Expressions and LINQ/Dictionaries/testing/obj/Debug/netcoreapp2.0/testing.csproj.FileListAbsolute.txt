@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\testing\obj\Debug\netcoreapp2.0\testing.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\testing\obj\Debug\netcoreapp2.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\testing\obj\Debug\netcoreapp2.0\testing.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\testing\obj\Debug\netcoreapp2.0\testing.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\testing\bin\Debug\netcoreapp2.0\testing.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\testing\bin\Debug\netcoreapp2.0\testing.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\testing\bin\Debug\netcoreapp2.0\testing.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\testing\bin\Debug\netcoreapp2.0\testing.dll
+C:\Users\Viliyan\Desktop\Dictionaries\testing\bin\Debug\netcoreapp2.0\testing.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\testing\obj\Debug\netcoreapp2.0\testing.dll
+C:\Users\Viliyan\Desktop\Dictionaries\testing\obj\Debug\netcoreapp2.0\testing.pdb

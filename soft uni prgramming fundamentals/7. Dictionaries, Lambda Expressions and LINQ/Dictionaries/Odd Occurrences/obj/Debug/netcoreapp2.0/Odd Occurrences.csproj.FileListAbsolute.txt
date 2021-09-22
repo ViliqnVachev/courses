@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.dll
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\bin\Debug\netcoreapp2.0\Odd Occurrences.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.dll
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\Odd Occurrences\obj\Debug\netcoreapp2.0\Odd Occurrences.csprojResolveAssemblyReference.cache

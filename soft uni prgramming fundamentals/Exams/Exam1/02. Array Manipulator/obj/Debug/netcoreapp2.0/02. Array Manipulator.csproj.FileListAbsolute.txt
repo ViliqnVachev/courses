@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\obj\Debug\netcoreapp2.0\02. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\obj\Debug\netcoreapp2.0\02. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\obj\Debug\netcoreapp2.0\02. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\obj\Debug\netcoreapp2.0\02. Array Manipulator.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\bin\Debug\netcoreapp2.0\02. Array Manipulator.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\bin\Debug\netcoreapp2.0\02. Array Manipulator.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\bin\Debug\netcoreapp2.0\02. Array Manipulator.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\bin\Debug\netcoreapp2.0\02. Array Manipulator.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\bin\Debug\netcoreapp2.0\02. Array Manipulator.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\obj\Debug\netcoreapp2.0\02. Array Manipulator.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\02. Array Manipulator\obj\Debug\netcoreapp2.0\02. Array Manipulator.pdb

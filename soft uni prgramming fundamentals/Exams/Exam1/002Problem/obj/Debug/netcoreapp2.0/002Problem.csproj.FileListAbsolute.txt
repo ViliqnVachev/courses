@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam1\002Problem\bin\Debug\netcoreapp2.0\002Problem.deps.json
+C:\Users\Viliyan\Desktop\Exam1\002Problem\bin\Debug\netcoreapp2.0\002Problem.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam1\002Problem\bin\Debug\netcoreapp2.0\002Problem.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam1\002Problem\bin\Debug\netcoreapp2.0\002Problem.dll
+C:\Users\Viliyan\Desktop\Exam1\002Problem\bin\Debug\netcoreapp2.0\002Problem.pdb
+C:\Users\Viliyan\Desktop\Exam1\002Problem\obj\Debug\netcoreapp2.0\002Problem.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam1\002Problem\obj\Debug\netcoreapp2.0\002Problem.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam1\002Problem\obj\Debug\netcoreapp2.0\002Problem.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam1\002Problem\obj\Debug\netcoreapp2.0\002Problem.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam1\002Problem\obj\Debug\netcoreapp2.0\002Problem.dll
+C:\Users\Viliyan\Desktop\Exam1\002Problem\obj\Debug\netcoreapp2.0\002Problem.pdb

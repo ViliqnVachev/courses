@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.dll
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.dll
+C:\Users\Viliyan\Desktop\Dictionaries\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.pdb

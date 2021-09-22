@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\bin\Debug\netcoreapp2.0\TakeSkipRope.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\bin\Debug\netcoreapp2.0\TakeSkipRope.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\bin\Debug\netcoreapp2.0\TakeSkipRope.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\bin\Debug\netcoreapp2.0\TakeSkipRope.dll
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\bin\Debug\netcoreapp2.0\TakeSkipRope.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\obj\Debug\netcoreapp2.0\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\obj\Debug\netcoreapp2.0\TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\obj\Debug\netcoreapp2.0\TakeSkipRope.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\obj\Debug\netcoreapp2.0\TakeSkipRope.dll
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\obj\Debug\netcoreapp2.0\TakeSkipRope.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\TakeSkipRope\obj\Debug\netcoreapp2.0\TakeSkipRope.csprojResolveAssemblyReference.cache

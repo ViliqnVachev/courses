@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.pdb

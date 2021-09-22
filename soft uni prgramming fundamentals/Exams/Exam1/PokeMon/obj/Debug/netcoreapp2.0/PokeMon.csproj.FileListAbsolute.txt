@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.pdb

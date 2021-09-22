@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.pdb

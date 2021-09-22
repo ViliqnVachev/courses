@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\bin\Debug\netcoreapp2.0\03. Football League.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\bin\Debug\netcoreapp2.0\03. Football League.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\bin\Debug\netcoreapp2.0\03. Football League.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\bin\Debug\netcoreapp2.0\03. Football League.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\bin\Debug\netcoreapp2.0\03. Football League.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\obj\Debug\netcoreapp2.0\03. Football League.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\obj\Debug\netcoreapp2.0\03. Football League.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\obj\Debug\netcoreapp2.0\03. Football League.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\obj\Debug\netcoreapp2.0\03. Football League.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\obj\Debug\netcoreapp2.0\03. Football League.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\03. Football League\obj\Debug\netcoreapp2.0\03. Football League.pdb

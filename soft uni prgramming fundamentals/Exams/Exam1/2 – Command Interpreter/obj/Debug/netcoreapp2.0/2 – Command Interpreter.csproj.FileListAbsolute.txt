@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\bin\Debug\netcoreapp2.0\2 – Command Interpreter.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\bin\Debug\netcoreapp2.0\2 – Command Interpreter.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\bin\Debug\netcoreapp2.0\2 – Command Interpreter.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\bin\Debug\netcoreapp2.0\2 – Command Interpreter.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\bin\Debug\netcoreapp2.0\2 – Command Interpreter.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\obj\Debug\netcoreapp2.0\2 – Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\obj\Debug\netcoreapp2.0\2 – Command Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\obj\Debug\netcoreapp2.0\2 – Command Interpreter.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\obj\Debug\netcoreapp2.0\2 – Command Interpreter.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\obj\Debug\netcoreapp2.0\2 – Command Interpreter.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\2 – Command Interpreter\obj\Debug\netcoreapp2.0\2 – Command Interpreter.pdb

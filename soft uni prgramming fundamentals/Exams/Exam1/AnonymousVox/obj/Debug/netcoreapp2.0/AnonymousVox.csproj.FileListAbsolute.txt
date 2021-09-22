@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.pdb

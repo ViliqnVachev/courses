@@ -1,0 +1,10 @@
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.deps.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.pdb
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.dll
+C:\Users\Viliyan\Desktop\Exam\Exam1\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.pdb

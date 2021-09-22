@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.dll
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.dll
+C:\Users\Viliyan\Desktop\Dictionaries\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.pdb

@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.deps.json
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.dll
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\bin\Debug\netcoreapp2.0\ParkingValidation.pdb
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.dll
+C:\Users\Viliyan\Desktop\Dictionaries\ParkingValidation\obj\Debug\netcoreapp2.0\ParkingValidation.pdb
