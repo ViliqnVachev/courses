@@ -32,7 +32,7 @@ DOM manipulation
 Advanced funcitions
 Unit testing
 
-#Database basics- MYSQL
+# Database basics- MYSQL
 CRUD
 Built-in funciton
 Data agregation
