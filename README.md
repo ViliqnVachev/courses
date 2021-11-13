@@ -1,49 +1,49 @@
 # SoftUniCourses
 Softuni Courses
 
-**Java-Basics**
-First steps in programming (Exercises- Simple Calculations, Simple Conditions, Loops, Draw with Loops)
+**Java-Basics** </br>
+First steps in programming (Exercises- Simple Calculations, Simple Conditions, Loops, Draw with Loops)</br>
 
-**Programming-Fundamentals**
-Programming Fundamentals (Arrays, Lists, Dictionaries, Lambda Expressions and LINQ, Regular Expresions, Data types, Objects and Classes). Technologies - Java and C#
+**Programming-Fundamentals**</br>
+Programming Fundamentals (Arrays, Lists, Dictionaries, Lambda Expressions and LINQ, Regular Expresions, Data types, Objects and Classes). Technologies - Java and C#</br>
 
-**Java-Advanced**
-This is repositpry for exercises of course Java- Advanced
-(Linear Data Structures, Sets and Maps, InputOutput, Files and Directories, String Processing, Functional Programming, Built-in Query methods - Stream API)
+**Java-Advanced**</br>
+This is repositpry for exercises of course Java- Advanced</br>
+(Linear Data Structures, Sets and Maps, InputOutput, Files and Directories, String Processing, Functional Programming, Built-in Query methods - Stream API)</br>
 
-**Java-OOP-Basics**
-Exercises
+**Java-OOP-Basics**</br>
+Exercises</br>
 
-**Java--OOP-Advanced**
-Exercises
+**Java--OOP-Advanced**</br>
+Exercises</br>
 
-**Javascript application**
-Http and REST services
-Async programming
-Remote data and auth
-SPA
-Architecture and testing
-Client side rendering
-routing  
+**Javascript application**</br>
+Http and REST services</br>
+Async programming</br>
+Remote data and auth</br>
+SPA</br>
+Architecture and testing</br>
+Client side rendering</br>
+routing  </br>
 
-**Javascript advanced**
-Arrays, Object and classes
-DOM manipulation
-Advanced funcitions
-Unit testing
+**Javascript advanced**</br>
+Arrays, Object and classes</br>
+DOM manipulation</br>
+Advanced funcitions</br>
+Unit testing</br>
 
-**Database basics- MYSQL**
-CRUD
-Built-in funciton
-Data agregation
-Table relations
-Subqueries and JOINs
+**Database basics- MYSQL**</br>
+CRUD</br>
+Built-in funciton</br>
+Data agregation</br>
+Table relations</br>
+Subqueries and JOINs</br>
 
-**Databases Frameworks - Hibernate & Spring Data**
-Hibernate and Spring data
+**Databases Frameworks - Hibernate & Spring Data**</br>
+Hibernate and Spring data</br>
 
 **Software-Technologies**
-Software technologies (PHP, JAVASCRIPT,JAVA,C#)
+Software technologies (PHP, JAVASCRIPT,JAVA,C#)</br>
 
 - HTML and CSS
 Basic Tags, Basic Styling, Forms
