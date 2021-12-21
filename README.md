@@ -7,7 +7,7 @@ _**Java-Basics**_ <a href="https://softuni.bg/certificates/details/50199/35aedf8
 _**Programming-Fundamentals**_ <a href="https://softuni.bg/certificates/details/54412/c593b008"> Certificate </a> </br>
 - Programming Fundamentals (Arrays, Lists, Dictionaries, Lambda Expressions and LINQ, Regular Expresions, Data types, Objects and Classes). Technologies - Java and C#</br>
 
-_**Java-Advanced**_</br> <a href="https://softuni.bg/certificates/details/54942/664e7543"> Certificate </a> </br>
+_**Java-Advanced**_ <a href="https://softuni.bg/certificates/details/54942/664e7543"> Certificate </a> </br>
 - This is repositpry for exercises of course Java- Advanced</br>
 - (Linear Data Structures, Sets and Maps, InputOutput, Files and Directories, String Processing, Functional Programming, Built-in Query methods - Stream API)</br>
 
